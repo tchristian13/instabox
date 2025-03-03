@@ -1,0 +1,52 @@
+.margin{
+}
+
+.logo{justify-content: top;
+      width: 40px;
+      height: 40px;
+      display: flex;
+}
+
+.text{
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    text-size-adjust: left;
+}
+
+.footercontainer ul li{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.pics{ 
+    display: flex;
+    justify-content: left;
+    width: 40px;
+    height: 40px;
+}
+
+.body{
+
+    background-color: white;
+    height: 30% ;
+    width: 100%;
+    display: flex;
+    justify-content: right;
+}
+
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    height: 30%;
+    width: 100%;
+    justify-content: center;
+}
+
+.flex_container{
+    width: 100;
+    padding: 70px 30px 20px;
+}
